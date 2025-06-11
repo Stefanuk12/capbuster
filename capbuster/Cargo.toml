@@ -1,5 +1,6 @@
 [package]
 name = "capbuster"
+description = "Client-agnostic bindings for various captcha solving providers and types."
 authors = ["Stefanuk12"]
 version = "0.1.0"
 edition = "2024"

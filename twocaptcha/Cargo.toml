@@ -1,5 +1,6 @@
 [package]
 name = "twocaptcha"
+description = "Raw client-agnostic bindings for the 2captcha API."
 authors = ["Stefanuk12"]
 version = "0.1.0"
 edition = "2024"
@@ -7,7 +8,6 @@ license = "MIT"
 repository = "https://github.com/Stefanuk12/capbuster"
 keywords = ["2captcha", "solver", "captcha", "agnostic", "http"]
 categories = ["web-programming", "api-bindings", "asynchronous"]
-
 
 [dependencies]
 api_builder.workspace = true
